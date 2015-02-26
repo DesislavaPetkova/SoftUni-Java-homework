@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+D:\SoftUni\Intro_Java_Homework1\.metadata\.plugins\org.eclipse.jdt.core
+3227020613.index
